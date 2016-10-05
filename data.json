@@ -12,6 +12,10 @@
     "url": "https://www.piriform.com/ccleaner/version-history"
   },
   {
+    "name": "Conversations",
+    "url": "https://github.com/siacs/Conversations/blob/master/CHANGELOG.md"
+  },
+  {
     "name": "Debian",
     "url": "https://www.debian.org/releases/stable/releasenotes"
   },
@@ -101,7 +105,7 @@
   },
   {
     "name": "Pidgin",
-    "url": "https://developer.pidgin.im/wiki/ChangeLog"
+    "url": "https://bitbucket.org/pidgin/www/src/tip/htdocs/ChangeLog?fileviewer=file-view-default"
   },
   {
     "name": "PuTTY",
@@ -168,6 +172,10 @@
     "url": "https://www.virtualbox.org/wiki/Changelog"
   },
   {
+    "name": "VLC media player",
+    "url": "https://www.videolan.org/vlc/releases/"
+  },
+  {
     "name": "VMware Player",
     "url": "https://www.vmware.com/support/pubs/player_pubs.html"
   },
@@ -178,5 +186,9 @@
   {
     "name": "WinSCP",
     "url": "http://winscp.net/eng/docs/history"
+  },
+  {
+    "name": "ZNC",
+    "url": "http://wiki.znc.in/ChangeLog/"
   }
 ]
