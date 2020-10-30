@@ -240,6 +240,14 @@
     "url": "https://www.chiark.greenend.org.uk/~sgtatham/putty/changes.html"
   },
   {
+    "name": "Redash",
+    "url": "https://github.com/getredash/redash/blob/master/CHANGELOG.md"
+  },
+  {
+    "name": "Redmine",
+    "url": "https://www.redmine.org/projects/redmine/wiki/changelog"
+  },
+  {
     "name": "Sandboxie",
     "url": "https://www.sandboxie.com/VersionChanges"
   },
