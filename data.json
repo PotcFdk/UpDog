@@ -120,6 +120,10 @@
     "url": "https://hexchat.readthedocs.org/en/latest/changelog.html"
   },
   {
+    "name": "Home Connect API",
+    "url": "https://developer.home-connect.com/changelog"
+  },
+  {
     "name": "HTTPS Everywhere",
     "url": "https://www.eff.org/files/Changelog.txt"
   },
