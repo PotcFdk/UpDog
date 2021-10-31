@@ -16,7 +16,7 @@ module.exports = env => ({
 				test: /\.css$/,
 				use: [
 					'style-loader',
-					'css-loader',
+					'css-loader'
 				],
 			},
 			{
@@ -25,11 +25,9 @@ module.exports = env => ({
 			},
 			{
 				test: /\.(png|svg|jpg|gif)$/,
-				use: [
-					'file-loader',
-				],
-			},
-		],
+				type: 'asset/resource'
+			}
+		]
 	},
 	plugins: [
 		new HtmlWebpackPlugin({
