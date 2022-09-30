@@ -52,6 +52,10 @@
     "url": "https://www.dropbox.com/release_notes"
   },
   {
+    "name": "Elasticsearch",
+    "url": "https://www.elastic.co/guide/en/elasticsearch/reference/current/es-release-notes.html"
+  },
+  {
     "name": "Exact Audio Copy",
     "url": "http://www.exactaudiocopy.de/en/index.php/resources/whats-new/whats-new/"
   },
