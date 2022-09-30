@@ -248,6 +248,10 @@
     "url": "https://www.chiark.greenend.org.uk/~sgtatham/putty/changes.html"
   },
   {
+    "name": "RabbitMQ",
+    "url": "https://www.rabbitmq.com/changelog.html"
+  },
+  {
     "name": "Redash",
     "url": "https://github.com/getredash/redash/blob/master/CHANGELOG.md"
   },
