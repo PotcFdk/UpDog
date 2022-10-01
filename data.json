@@ -156,6 +156,10 @@
     "url": "https://www.libreoffice.org/download/release-notes/"
   },
   {
+    "name": "Liquibase",
+    "url": "https://docs.liquibase.com/release-notes/home.html"
+  },
+  {
     "name": "MATLAB",
     "url": "https://de.mathworks.com/help/matlab/release-notes.html"
   },
