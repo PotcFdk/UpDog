@@ -1,7 +1,7 @@
 {
 	"$id": "https://github.com/PotcFdk/UpDog/data.schema.json",
 	"$schema": "https://json-schema.org/draft/2020-12/schema",
-	"title": "Person",
+	"title": "UpDog data.json",
 	"type": "object",
 	"required": [
 		"list"
