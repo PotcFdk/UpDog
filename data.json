@@ -154,6 +154,14 @@
       "url": "https://keepass.info/news/news_all.html"
     },
     {
+      "name": "Kibana (current)",
+      "url": "https://www.elastic.co/guide/en/kibana/current/release-notes.html"
+    },
+    {
+      "name": "Kibana (all)",
+      "url": "https://github.com/elastic/kibana/releases"
+    },
+    {
       "name": "LibreOffice",
       "url": "https://www.libreoffice.org/download/release-notes/"
     },
