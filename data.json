@@ -246,6 +246,10 @@
       "url": "https://www.postman.com/downloads/release-notes/"
     },
     {
+      "name": "PostgreSQL",
+      "url": "https://www.postgresql.org/docs/release/"
+    },
+    {
       "name": "Privacy Badger (Chrome)",
       "url": "https://github.com/EFForg/privacybadgerchrome/blob/master/doc/Changelog"
     },
