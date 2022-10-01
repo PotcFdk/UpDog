@@ -340,6 +340,10 @@
     "url": "https://tortoisesvn.net/Changelog.txt"
   },
   {
+    "name": "traefik",
+    "url": "https://github.com/traefik/traefik/blob/master/CHANGELOG.md"
+  },
+  {
     "name": "uGet",
     "url": "https://ugetdm.com/changelog/"
   },
