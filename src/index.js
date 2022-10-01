@@ -11,7 +11,7 @@ import 'jquery-ui-css/all.css';
  */
 
 /** @type {UpDogEntry[]} **/
-const json = require('../data.json');
+const list = require('../data.json').list;
 
 let map = {};
 let names = [];
@@ -23,11 +23,11 @@ const openChangeLog = name => {
 	return url && window.open(url, '_blank');
 }
 
-json
+list
 	.map(e => e.name)
 	.forEach(name => names.push(name));
 
-json.forEach(e => map[e.name.toLowerCase()] = e.url);
+list.forEach(e => map[e.name.toLowerCase()] = e.url);
 
 $("#autocomplete").autocomplete({
 	source: function (given, callback) {

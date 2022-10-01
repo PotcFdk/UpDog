@@ -1,0 +1,37 @@
+{
+	"$id": "https://github.com/PotcFdk/UpDog/data.schema.json",
+	"$schema": "https://json-schema.org/draft/2020-12/schema",
+	"title": "Person",
+	"type": "object",
+	"required": [
+		"list"
+	],
+	"properties": {
+		"list": {
+			"type": "array",
+			"description": "The list of entries.",
+			"items": {
+				"$ref": "#/$defs/releaseNoteMetaObject"
+			}
+		}
+	},
+	"$defs": {
+		"releaseNoteMetaObject": {
+			"type": "object",
+			"required": [
+				"name",
+				"url"
+			],
+			"properties": {
+				"name": {
+					"type": "string",
+					"description": "The name of the entry."
+				},
+				"veggieLike": {
+					"type": "boolean",
+					"description": "The URL where release notes can be found for the entry."
+				}
+			}
+		}
+	}
+}
