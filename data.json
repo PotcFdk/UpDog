@@ -5,6 +5,34 @@
       "name": "7-Zip",
       "url": "https://www.7-zip.org/history.txt"
     },
+	{
+      "name": "AdGuard Browser extension",
+      "url": "https://adguard.com/en/versions/browser-extension/release.html"
+    },
+	{
+      "name": "AdGuard for Android",
+      "url": "https://adguard.com/en/versions/android/release.html"
+    },
+	{
+      "name": "AdGuard for iOS",
+      "url": "https://adguard.com/en/versions/ios/release.html"
+    },
+	{
+      "name": "AdGuard for iOS Pro",
+      "url": "https://adguard.com/en/versions/ios-pro/release.html"
+    },
+	{
+      "name": "AdGuard for Mac",
+      "url": "https://adguard.com/en/versions/mac/release.html"
+    },
+	{
+      "name": "AdGuard for Safari",
+      "url": "https://adguard.com/en/versions/safari/release.html"
+    },
+	{
+      "name": "AdGuard for Windows",
+      "url": "https://adguard.com/en/versions/windows/release.html"
+    },
     {
       "name": "Anaconda",
       "url": "https://docs.anaconda.com/anaconda/release-notes"
