@@ -305,6 +305,10 @@
       "name": "Redash",
       "url": "https://github.com/getredash/redash/blob/master/CHANGELOG.md"
     },
+	{
+      "name": "Redis",
+      "url": "https://docs.redis.com/latest/rs/release-notes/"
+    },
     {
       "name": "Redmine",
       "url": "https://www.redmine.org/projects/redmine/wiki/changelog"
