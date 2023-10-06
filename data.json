@@ -389,6 +389,10 @@
       "name": "traefik",
       "url": "https://github.com/traefik/traefik/blob/master/CHANGELOG.md"
     },
+	{
+      "name": "Ubuntu",
+      "url": "https://wiki.ubuntu.com/Releases"
+    },
     {
       "name": "uGet",
       "url": "https://ugetdm.com/changelog/"
