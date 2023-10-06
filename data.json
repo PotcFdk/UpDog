@@ -293,6 +293,10 @@
       "name": "Privacy Badger (Firefox)",
       "url": "https://github.com/EFForg/privacybadgerfirefox/blob/master/doc/Changelog"
     },
+	{
+      "name": "Proxmox",
+      "url": "https://pve.proxmox.com/wiki/Roadmap#Release_History"
+    },
     {
       "name": "PuTTY",
       "url": "https://www.chiark.greenend.org.uk/~sgtatham/putty/changes.html"
