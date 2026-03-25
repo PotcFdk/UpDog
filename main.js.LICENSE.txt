@@ -1,111 +1,100 @@
 /*!
- * Sizzle CSS Selector Engine v2.3.6
- * https://sizzlejs.com/
+ * jQuery UI Autocomplete 1.14.2
+ * https://jqueryui.com
  *
- * Copyright JS Foundation and other contributors
- * Released under the MIT license
- * https://js.foundation/
- *
- * Date: 2021-02-16
+ * Copyright OpenJS Foundation and other contributors
+ * Released under the MIT license.
+ * https://jquery.org/license
  */
 
 /*!
- * jQuery UI Autocomplete 1.13.2
- * http://jqueryui.com
+ * jQuery UI Button 1.14.2
+ * https://jqueryui.com
  *
- * Copyright jQuery Foundation and other contributors
+ * Copyright OpenJS Foundation and other contributors
  * Released under the MIT license.
- * http://jquery.org/license
+ * https://jquery.org/license
  */
 
 /*!
- * jQuery UI Button 1.13.2
- * http://jqueryui.com
+ * jQuery UI Checkboxradio 1.14.2
+ * https://jqueryui.com
  *
- * Copyright jQuery Foundation and other contributors
+ * Copyright OpenJS Foundation and other contributors
  * Released under the MIT license.
- * http://jquery.org/license
+ * https://jquery.org/license
  */
 
 /*!
- * jQuery UI Checkboxradio 1.13.2
- * http://jqueryui.com
+ * jQuery UI Controlgroup 1.14.2
+ * https://jqueryui.com
  *
- * Copyright jQuery Foundation and other contributors
+ * Copyright OpenJS Foundation and other contributors
  * Released under the MIT license.
- * http://jquery.org/license
+ * https://jquery.org/license
  */
 
 /*!
- * jQuery UI Controlgroup 1.13.2
- * http://jqueryui.com
+ * jQuery UI Form Reset Mixin 1.14.2
+ * https://jqueryui.com
  *
- * Copyright jQuery Foundation and other contributors
+ * Copyright OpenJS Foundation and other contributors
  * Released under the MIT license.
- * http://jquery.org/license
+ * https://jquery.org/license
  */
 
 /*!
- * jQuery UI Form Reset Mixin 1.13.2
- * http://jqueryui.com
+ * jQuery UI Keycode 1.14.2
+ * https://jqueryui.com
  *
- * Copyright jQuery Foundation and other contributors
+ * Copyright OpenJS Foundation and other contributors
  * Released under the MIT license.
- * http://jquery.org/license
+ * https://jquery.org/license
  */
 
 /*!
- * jQuery UI Keycode 1.13.2
- * http://jqueryui.com
+ * jQuery UI Labels 1.14.2
+ * https://jqueryui.com
  *
- * Copyright jQuery Foundation and other contributors
+ * Copyright OpenJS Foundation and other contributors
  * Released under the MIT license.
- * http://jquery.org/license
+ * https://jquery.org/license
  */
 
 /*!
- * jQuery UI Labels 1.13.2
- * http://jqueryui.com
+ * jQuery UI Menu 1.14.2
+ * https://jqueryui.com
  *
- * Copyright jQuery Foundation and other contributors
+ * Copyright OpenJS Foundation and other contributors
  * Released under the MIT license.
- * http://jquery.org/license
+ * https://jquery.org/license
  */
 
 /*!
- * jQuery UI Menu 1.13.2
- * http://jqueryui.com
+ * jQuery UI Position 1.14.2
+ * https://jqueryui.com
  *
- * Copyright jQuery Foundation and other contributors
+ * Copyright OpenJS Foundation and other contributors
  * Released under the MIT license.
- * http://jquery.org/license
+ * https://jquery.org/license
+ *
+ * https://api.jqueryui.com/position/
  */
 
 /*!
- * jQuery UI Position 1.13.2
- * http://jqueryui.com
+ * jQuery UI Unique ID 1.14.2
+ * https://jqueryui.com
  *
- * Copyright jQuery Foundation and other contributors
+ * Copyright OpenJS Foundation and other contributors
  * Released under the MIT license.
- * http://jquery.org/license
- *
- * http://api.jqueryui.com/position/
+ * https://jquery.org/license
  */
 
 /*!
- * jQuery UI Unique ID 1.13.2
- * http://jqueryui.com
+ * jQuery UI Widget 1.14.2
+ * https://jqueryui.com
  *
- * Copyright jQuery Foundation and other contributors
+ * Copyright OpenJS Foundation and other contributors
  * Released under the MIT license.
- * http://jquery.org/license
- */
-
-/*!
- * jQuery UI Widget 1.13.2
- * http://jqueryui.com
- *
- * Copyright jQuery Foundation and other contributors
- * Released under the MIT license.
- * http://jquery.org/license
+ * https://jquery.org/license
  */
