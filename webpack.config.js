@@ -42,7 +42,7 @@ module.exports = env => ({
 	],
 	resolve: {
 		alias: {
-			jquery: "jquery/src/jquery",
+			jquery: "jquery/slim",
 			'jquery-ui': 'jquery-ui/ui/widgets',
 			'jquery-ui-css': 'jquery-ui/../../themes/base'
 		}

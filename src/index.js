@@ -1,5 +1,5 @@
 import './index.css';
-require("jquery");
+import { $ } from 'jquery';
 import 'jquery-ui/autocomplete';
 import 'jquery-ui/button';
 import 'jquery-ui-css/all.css';
