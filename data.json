@@ -330,12 +330,16 @@
       "url": "https://www.andryou.com/scriptsafe/changelog/"
     },
     {
-      "name": "Seafile client",
-      "url": "https://manual.seafile.com/changelog/client-changelog/"
+      "name": "SeaDrive Client",
+      "url": "https://manual.seafile.com/latest/changelog/drive-client-changelog/"
     },
     {
-      "name": "Seafile server",
-      "url": "https://manual.seafile.com/changelog/server-changelog/"
+      "name": "SeaFile Client",
+      "url": "https://manual.seafile.com/latest/changelog/client-changelog/"
+    },
+    {
+      "name": "SeaFile Server",
+      "url": "https://plus.seafile.com/wiki/publish/seafile-wiki/5L80/"
     },
     {
       "name": "ShareX",
