@@ -5,6 +5,7 @@ const HtmlWebpackPlugin = require('html-webpack-plugin');
 const HtmlWebpackBannerPlugin = require('@potcfdk/html-webpack-banner-plugin');
 
 module.exports = env => ({
+	mode: 'production',
 	entry: './src/index.js',
 	output: {
 		filename: 'main.js',
