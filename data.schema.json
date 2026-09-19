@@ -17,6 +17,7 @@
 	},
 	"definitions": {
 		"saneUrl": {
+			"type": "string",
 			"format": "uri",
 			"pattern": "^https?://"
 		}
